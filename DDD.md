@@ -6,8 +6,8 @@
 
 **Code fights you**: A stiff design resists refactoring. Code that wasn’t built with flexibility in mind so code hard to work with. Whenever change is needed, you will see the code fighting you.
 
-**Breakthrough**: often involves a change in thinking. It is also a source of great progress in the project. 
-It can imply a large amount of refactoring 
+**Breakthrough**: often involves a change in thinking. It is also a source of great progress in the project.
+It can imply a large amount of refactoring
 It may introduce behavioral changes in the application.
 
 **Specification**: If Ubiquitous Language  specifically mentions the respective process then it is time for an explicit implementation. If evaluating rules on given object involves number of checkings which may involve business rules and other tons of different rules, it is time for use Specification.

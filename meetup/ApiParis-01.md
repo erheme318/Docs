@@ -45,14 +45,13 @@ Spread the word: attract the gurus (skilled developers)
 
 ### Deployment
 
-Every feature aer deployed for all clients on same time. But client don't really have to have same versioning.
+Every feature are deployed for all clients on same time.
+But client don't really have to have same versioning.
 
 
 ### Culture
 
 Every engineer in Algolia answer the support including CTO.
-
-
 
 ## MDN Mozilla  (talk2)
 by jeremi
@@ -60,5 +59,3 @@ by jeremi
 MDN developer wiki exists for 10 years.
 
 Browser compatibility for feature doesn't exist any other site or specification.
-
-

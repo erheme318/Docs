@@ -5,7 +5,6 @@ by icecrime @twitter
 mantainer:
  Able to say LGTM
 
-
 Core mantainers:
     - multiple vendors
 

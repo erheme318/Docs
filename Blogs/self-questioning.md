@@ -14,3 +14,10 @@ So if you only do what the requirement says without self-questioning, you may sa
 
 In other words, the work you have done without self-questioning, you did the execution part of the work only. But when you question yourself, you may figure out what customers are trying to solve. And if you have courage to tackle it through experiments in order to help them, your work would be much more valuable than before, you did not only execution but also took the initiative.
 
+
+# References
+
+ - [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095)
+ - [Thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+ - [How Life Imitates Chess: Making the Right Moves, from the Board to the Boardroom](https://www.amazon.com/How-Life-Imitates-Chess-Boardroom/dp/1596913886)
+
